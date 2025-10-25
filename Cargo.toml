@@ -2,6 +2,7 @@
 members = [
     "crates/treereduce",
     "crates/treereduce-c",
+    "crates/treereduce-cuda",
     "crates/treereduce-java",
     "crates/treereduce-javascript",
     "crates/treereduce-lua",
